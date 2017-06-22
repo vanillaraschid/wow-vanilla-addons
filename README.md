@@ -16,6 +16,11 @@ Client: EN | DE<br>
 This AddOn adjusts the display of the tooltips to show which recipe is being used by the item your hovering above<br>
 <img src="https://image.ibb.co/gxv17k/mastertradeskills.jpg"/>
 
+## SpamThrottle v1.12
+Client: EN | DE<br>
+Eliminates unnecessary and annoying chat messages<br>
+/st ingame for options<br>
+
 ## VanillaGraphicBoost 1.0
 Client: EN | DE<br>
 Console commands for better graphical settings (some not possible in menu to set)<br>
