@@ -6,7 +6,7 @@ Display information in item tooltips pertaining to the results of disenchanting 
 <img src="https://image.ibb.co/gAiYoF/omnicc11.jpg"/>
 
 ## Fishing Buddy 0.8.8e
-zusätzlich: OutfitDisplayFrame
+zusätzlich: OutfitDisplayFrame<br>
 Client: EN | DE<br>
 Help with fishing related tasks -- clothing, fish information, etc.<br>
 ## MasterTradeSkills 1.12
