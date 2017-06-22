@@ -3,7 +3,7 @@
 Dependencies: EnhTooltip, Stubby<br>
 Client: EN | DE<br>
 Display information in item tooltips pertaining to the results of disenchanting said item.<br>
-<img src="https://image.ibb.co/gAiYoF/omnicc.jpg"/>
+<img src="https://image.ibb.co/gAiYoF/omni.jpg"/>
 
 ## Fishing Buddy 0.8.8e
 zusätzlich: OutfitDisplayFrame<br>
