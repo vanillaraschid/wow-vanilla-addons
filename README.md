@@ -19,7 +19,7 @@ This AddOn adjusts the display of the tooltips to show which recipe is being use
 ## SpamThrottle v1.12
 Client: EN | DE<br>
 Eliminates unnecessary and annoying chat messages<br>
-/st ingame for options<br>
+Command:/st<br>
 
 ## VanillaGraphicBoost 1.0
 Client: EN | DE<br>
