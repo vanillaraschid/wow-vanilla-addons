@@ -3,16 +3,18 @@
 Dependencies: EnhTooltip, Stubby<br>
 Client: EN | DE<br>
 Display information in item tooltips pertaining to the results of disenchanting said item.<br>
-<img src="https://image.ibb.co/gAiYoF/o.jpg"/>
 
 ## Fishing Buddy 0.8.8e
 zusätzlich: OutfitDisplayFrame<br>
 Client: EN | DE<br>
 Help with fishing related tasks -- clothing, fish information, etc.<br>
+<img src="https://image.ibb.co/jk8cf5/fishingbuddy1.jpg"/><img src="https://image.ibb.co/mBycf5/fishingbuddy2.jpg"/>
+
 ## MasterTradeSkills 1.12
 Dependencies: ReagentData<br>
 Client: EN | DE<br>
 This AddOn adjusts the display of the tooltips to show which recipe is being used by the item your hovering above<br>
+<img src="https://image.ibb.co/gxv17k/mastertradeskills.jpg"/>
 
 ## VanillaGraphicBoost 1.0
 Client: EN | DE<br>
