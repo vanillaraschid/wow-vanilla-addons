@@ -2,15 +2,15 @@
 ## Druid Bar v3.4
 Client: EN | DE<br>
 Shows mana in bear/cat form.<br>
-Command:/*druidbar*<br>
+Command: /*druidbar*<br>
 <img src="https://image.ibb.co/ijT7yQ/druidbar01.jpg"/><img src="https://image.ibb.co/keRGsk/druidbar02.jpg" width="400"/>
 
 ## Enchantrix 3.6.1
 Dependencies: EnhTooltip, Stubby<br>
 Client: EN | DE<br>
 Display information in item tooltips pertaining to the results of disenchanting said item.<br>
-Command:/*enchantrix*<br>
-Command for always load on char:/*enchantrix load always*<br>
+Command: /*enchantrix*<br>
+Command for always load on char: /*enchantrix load always*<br>
 <img src="https://image.ibb.co/nCe855/enchantrix01.jpg"/>
 
 ## Fishing Buddy 0.8.8e
