@@ -9,6 +9,8 @@ Command:/*druidbar*<br>
 Dependencies: EnhTooltip, Stubby<br>
 Client: EN | DE<br>
 Display information in item tooltips pertaining to the results of disenchanting said item.<br>
+Command:/*enchantrix*<br>
+Command for always load on char:/*enchantrix load always*<br>
 <img src="https://image.ibb.co/nCe855/enchantrix01.jpg"/>
 
 ## Fishing Buddy 0.8.8e
