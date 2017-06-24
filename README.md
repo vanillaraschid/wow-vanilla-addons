@@ -4,6 +4,7 @@ Client: EN | DE<br>
 Shows mana in bear/cat form.<br>
 Command:/*druidbar*<br>
 <img src="https://image.ibb.co/ijT7yQ/druidbar01.jpg"/><img src="https://image.ibb.co/keRGsk/druidbar02.jpg" width="400"/>
+
 ## Enchantrix 3.6.1
 Dependencies: EnhTooltip, Stubby<br>
 Client: EN | DE<br>
@@ -24,7 +25,7 @@ This AddOn adjusts the display of the tooltips to show which recipe is being use
 ## SpamThrottle v1.12
 Client: EN | DE<br>
 Eliminates unnecessary and annoying chat messages<br>
-Command:/st<br>
+Command:/*st*<br>
 
 ## VanillaGraphicBoost 1.0
 Client: EN | DE<br>
