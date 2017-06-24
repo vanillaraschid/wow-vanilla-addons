@@ -26,7 +26,7 @@ This AddOn adjusts the display of the tooltips to show which recipe is being use
 Client: EN | DE<br>
 Eliminates unnecessary and annoying chat messages<br>
 Command:/*st*<br>
-
+<img src="https://image.ibb.co/h6cZdQ/spamthrottle.jpg"/>
 ## VanillaGraphicBoost 1.0
 Client: EN | DE<br>
 Console commands for better graphical settings (some not possible in menu to set)<br>
