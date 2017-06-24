@@ -1,4 +1,9 @@
 # wow-vanilla-addons<br>
+## Druid Bar v3.4
+Client: EN | DE<br>
+Shows mana in bear/cat form.<br>
+Command:/*druidbar*<br>
+<img src="https://image.ibb.co/ijT7yQ/druidbar01.jpg"/><img src="https://image.ibb.co/keRGsk/druidbar02.jpg"/>
 ## Enchantrix 3.6.1
 Dependencies: EnhTooltip, Stubby<br>
 Client: EN | DE<br>
