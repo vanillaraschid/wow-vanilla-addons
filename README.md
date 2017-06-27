@@ -22,7 +22,7 @@ Command: /*ezd*<br>
 zusätzlich: OutfitDisplayFrame<br>
 Client: EN | DE<br>
 Help with fishing related tasks -- clothing, fish information, etc.<br>
-<img src="https://image.ibb.co/jk8cf5/fishingbuddy1.jpg"/><img src="https://image.ibb.co/mBycf5/fishingbuddy2.jpg"/>
+<img src="https://image.ibb.co/jk8cf5/fishingbuddy1.jpg" width="300"/><img src="https://image.ibb.co/mBycf5/fishingbuddy2.jpg"/>
 
 ## MasterTradeSkills 1.12
 Dependencies: ReagentData<br>
