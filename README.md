@@ -13,6 +13,11 @@ Command: /*enchantrix*<br>
 Command for always load on char: /*enchantrix load always*<br>
 <img src="https://image.ibb.co/nCe855/enchantrix01.jpg"/>
 
+## EzDismount 2.03
+Client: EN | DE<br>
+Dismounts you when opening Flightpath, or whenever "Cannot use while mounted" OR "Can't attack while mounted" errors appear, also drops druid shapeshifts and GhostWolf<br>
+Command: /*ezd*<br>
+<img src="https://image.ibb.co/mTHBA5/ezdismount.jpg"/>
 ## Fishing Buddy 0.8.8e
 zusätzlich: OutfitDisplayFrame<br>
 Client: EN | DE<br>
