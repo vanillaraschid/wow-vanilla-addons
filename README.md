@@ -40,10 +40,10 @@ Command: /*st*<br>
 Client: EN | DE<br>
 Tells you everything about an ability, right on the tooltip.<br>
 Command: /*tc*<br>
-<img src="https://image.ibb.co/f86WtQ/theorycraft01.jpg"/><img src="https://image.ibb.co/f2w9f5/theorycraft02.jpg"/><br>
-<img src="https://image.ibb.co/hNbmSk/theorycraft03.jpg" width="300"/>
-<img src="https://image.ibb.co/kSYBtQ/theorycraft04.jpg" width="300"/>
-<img src="https://image.ibb.co/kneUf5/theorycraft05.jpg" width="300"/>
+<img src="https://image.ibb.co/f2w9f5/theorycraft02.jpg"/><br>
+<img src="https://image.ibb.co/hNbmSk/theorycraft03.jpg" width="200"/>
+<img src="https://image.ibb.co/kSYBtQ/theorycraft04.jpg" width="200"/>
+<img src="https://image.ibb.co/kneUf5/theorycraft05.jpg" width="100"/>
 ## VanillaGraphicBoost 1.0
 Client: EN | DE<br>
 Console commands for better graphical settings (some not possible in menu to set)<br>
