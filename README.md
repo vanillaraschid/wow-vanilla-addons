@@ -1,4 +1,11 @@
 # wow-vanilla-addons<br>
+
+## Clique
+Client EN | DE<br>
+Simply powerful click-casting interface<br>
+Seen as healer only<br>
+<img src="https://image.ibb.co/jQHy8Q/clique01.jpg" width="300"/><img src="https://image.ibb.co/mRQUF5/clique02.jpg" width="300"/>
+
 ## Druid Bar v3.4
 Client: EN | DE<br>
 Shows mana in bear/cat form.<br>
@@ -23,6 +30,11 @@ zusätzlich: OutfitDisplayFrame<br>
 Client: EN | DE<br>
 Help with fishing related tasks -- clothing, fish information, etc.<br>
 <img src="https://image.ibb.co/jk8cf5/fishingbuddy1.jpg" width="300"/><img src="https://image.ibb.co/mBycf5/fishingbuddy2.jpg"/>
+
+## GridEnhanced v0.11
+Client: EN | DE<br>
+A modular, lightweight and screen-estate saving grid of party/raid unit frames<br>
+This is Grid, but maintained and enhanced specifically for the 1.12 community.<br>
 
 ## MasterTradeSkills 1.12
 Dependencies: ReagentData<br>
