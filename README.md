@@ -25,6 +25,7 @@ Client: EN | DE<br>
 Dismounts you when opening Flightpath, or whenever "Cannot use while mounted" OR "Can't attack while mounted" errors appear, also drops druid shapeshifts and GhostWolf<br>
 Command: /*ezd*<br>
 <img src="https://image.ibb.co/mTHBA5/ezdismount.jpg" width="300"/>
+
 ## Fishing Buddy 0.8.8e
 zusätzlich: OutfitDisplayFrame<br>
 Client: EN | DE<br>
@@ -35,6 +36,8 @@ Help with fishing related tasks -- clothing, fish information, etc.<br>
 Client: EN | DE<br>
 A modular, lightweight and screen-estate saving grid of party/raid unit frames<br>
 This is Grid, but maintained and enhanced specifically for the 1.12 community.<br>
+<img src="https://image.ibb.co/bAKya5/gridenhanced01.jpg"/>
+<img src="https://image.ibb.co/edTrv5/gridenhanced02.jpg"/>
 
 ## MasterTradeSkills 1.12
 Dependencies: ReagentData<br>
