@@ -36,8 +36,7 @@ Help with fishing related tasks -- clothing, fish information, etc.<br>
 Client: EN | DE<br>
 A modular, lightweight and screen-estate saving grid of party/raid unit frames<br>
 This is Grid, but maintained and enhanced specifically for the 1.12 community.<br>
-<img src="https://image.ibb.co/bAKya5/gridenhanced01.jpg"/>
-<img src="https://image.ibb.co/edTrv5/gridenhanced02.jpg"/>
+<img src="https://image.ibb.co/bAKya5/gridenhanced01.jpg"/><img src="https://image.ibb.co/edTrv5/gridenhanced02.jpg" width="300"/>
 
 ## MasterTradeSkills 1.12
 Dependencies: ReagentData<br>
