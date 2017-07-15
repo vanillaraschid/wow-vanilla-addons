@@ -62,6 +62,7 @@ Command: /*tc*<br>
 ## TrinketMenu 3.41
 Client: EN | DE<br>
 This is a mod to make swapping trinkets easier.  It will display your two equipped trinkets in a bar.  Mouseover on either trinket will display a menu of up to 30 trinkets in your bags to swap.<br>
+Show/Hide with the Gear-Button on Minimap<br>
 <img src="https://image.ibb.co/nLPJQF/trinketmenu.jpg"/>
 
 ## VanillaGraphicBoost 1.0
