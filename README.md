@@ -58,6 +58,12 @@ Command: /*tc*<br>
 <img src="https://image.ibb.co/hNbmSk/theorycraft03.jpg" width="200"/>
 <img src="https://image.ibb.co/kSYBtQ/theorycraft04.jpg" width="200"/>
 <img src="https://image.ibb.co/kneUf5/theorycraft05.jpg" width="200"/>
+
+## TrinketMenu 3.41
+Client: EN | DE<br>
+This is a mod to make swapping trinkets easier.  It will display your two equipped trinkets in a bar.  Mouseover on either trinket will display a menu of up to 30 trinkets in your bags to swap.<br>
+<img src="https://image.ibb.co/nLPJQF/trinketmenu.jpg"/>
+
 ## VanillaGraphicBoost 1.0
 Client: EN | DE<br>
 Console commands for better graphical settings (some not possible in menu to set)<br>
